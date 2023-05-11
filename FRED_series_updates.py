@@ -35,7 +35,7 @@ if response.status_code == 200:
         df_existing = pd.DataFrame()
 
     # Append new data to the existing DataFrame
-    df_combined = pd.concat(objs=[df_existing, df_new]).drop_duplicates(subset=['id'])
+    df_combined = pd.concat(objs=[df_existing, df_new]).drop_duplicates()
 
     # Write the combined DataFrame back to the CSV file
     df_combined.to_csv(path_or_buf='seriess_data.csv', index=False)
