@@ -21,10 +21,6 @@ if response.status_code == 200:
     # Parse the JSON response
     data = response.json()
 
-    # Write the JSON data to a file
-    with open(file='data.json', mode='w') as f:
-        json.dump(obj=data, fp=f, indent=4)
-
     # Create a DataFrame from the 'seriess' array
     df_new = pd.DataFrame(data=data['seriess'])
 
