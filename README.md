@@ -3,6 +3,9 @@ Economic data series sorted by when observations were updated on the FRED® serv
 
 ![Imgur](https://imgur.com/KTMm4AW.jpg)
 
+## What is FRED?
+**[What is FRED?](https://fredhelp.stlouisfed.org/fred/about/about-fred/what-is-fred/)**
+
 ## Website
 Documentation is found [here](https://fred.stlouisfed.org/docs/api/fred/series_updates.html).
 
