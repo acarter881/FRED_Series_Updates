@@ -5711,3 +5711,8 @@ See ""About the Data"" (https://www.census.gov/econ/bfs/about_the_data.html) for
 BUSAPPWNSAUS,2023-05-12,2023-05-12,Business Applications for the United States,2006-01-07,2023-05-06,"Weekly, Ending Saturday",W,Number,Number,Not Seasonally Adjusted,NSA,2023-05-11 11:03:01-05,35,"Business Applications (BA): The core business applications series that corresponds to a subset of all EIN applications. BA includes all applications for an EIN, except for applications for tax liens, estates, trusts, or certain financial filings, applications with no state-county geocodes, applications from certain agricultural, public entities, and applications in certain industries (e.g. private households, civic and social organizations).
 
 See ""About the Data"" (https://www.census.gov/econ/bfs/about_the_data.html) for more details."
+FIXHAI,2023-05-12,2023-05-12,Housing Affordability Index (Fixed),2022-03-01,2023-02-01,Monthly,M,Index,Index,Not Seasonally Adjusted,NSA,2023-05-12 09:44:42-05,73,"Copyright, 2016, National Association of Realtors. Reprinted with permission. Per the agreement with the source, data in FRED are available for the prior 13 months.
+
+Measures the degree to which a typical family can afford the monthly mortgage payments on a typical home.
+
+Value of 100 means that a family with the median income has exactly enough income to qualify for a mortgage on a median-priced home. An index above 100 signifies that family earning the median income has more than enough income to qualify for a mortgage loan on a median-priced home, assuming a 20 percent down payment. This index is calculated for fixed mortgages."
