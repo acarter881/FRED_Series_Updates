@@ -12758,3 +12758,23 @@ CLSLCBW027SBOG,2023-05-14,2023-05-14,"Consumer Loans, Large Domestically Charter
 LTDFRIW027SBOG,2023-05-14,2023-05-14,"Large Time Deposits, Foreign-Related Institutions",1973-01-03,2023-05-03,"Weekly, Ending Wednesday",W,Billions of U.S. Dollars,Bil. of U.S. $,Seasonally Adjusted,SA,2023-05-12 15:35:46-05,1,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 DFEDTARL,2023-05-14,2023-05-14,Federal Funds Target Range - Lower Limit,2008-12-16,2023-05-14,"Daily, 7-Day",D,Percent,%,Not Seasonally Adjusted,NSA,2023-05-14 07:30:03-05,63,This series represents lower limit of the federal funds target range established by the Federal Open Market Committee. The data updated each day is the data effective as of that day.
 DFEDTARU,2023-05-14,2023-05-14,Federal Funds Target Range - Upper Limit,2008-12-16,2023-05-14,"Daily, 7-Day",D,Percent,%,Not Seasonally Adjusted,NSA,2023-05-14 07:30:01-05,81,This series represents upper limit of the federal funds target range established by the Federal Open Market Committee. The data updated each day is the data effective as of that day.
+CBBCHUSD,2023-05-14,2023-05-14,Coinbase Bitcoin Cash,2017-12-20,2023-05-14,"Daily, 7-Day",D,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2023-05-14 19:30:03-05,23,"All data is as of 5 PM PST. 
+
+Copyright, 2018, Coinbase. 
+
+Reproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
+CBLTCUSD,2023-05-14,2023-05-14,Coinbase Litecoin,2016-08-17,2023-05-14,"Daily, 7-Day",D,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2023-05-14 19:30:03-05,20,"All data is as of 5 PM PST. 
+
+Copyright, 2018, Coinbase. 
+
+Reproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
+CBETHUSD,2023-05-14,2023-05-14,Coinbase Ethereum,2016-05-18,2023-05-14,"Daily, 7-Day",D,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2023-05-14 19:30:02-05,42,"All data is as of 5 PM PST. 
+
+Copyright, 2018, Coinbase. 
+
+Reproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
+CBBTCUSD,2023-05-14,2023-05-14,Coinbase Bitcoin,2014-12-01,2023-05-14,"Daily, 7-Day",D,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2023-05-14 19:30:01-05,62,"All data is as of 5 PM PST. 
+
+Copyright, 2018, Coinbase. 
+
+Reproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
