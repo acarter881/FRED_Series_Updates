@@ -4,6 +4,9 @@ import json
 import pandas as pd
 from pandas.errors import EmptyDataError
 
+# Set filename
+FILENAME = 'seriess_data_2.csv'
+
 # Retrieve FRED API key from the appropriate User variable
 API_KEY = os.environ['FRED_API_KEY']
 
@@ -26,7 +29,7 @@ if response.status_code == 200:
 
     # Load the existing data
     try:
-        df_existing = pd.read_csv(filepath_or_buffer='seriess_data.csv')
+        df_existing = pd.read_csv(filepath_or_buffer=FILENAME)
     except EmptyDataError:
         df_existing = pd.DataFrame()
 
@@ -34,4 +37,4 @@ if response.status_code == 200:
     df_combined = pd.concat(objs=[df_existing, df_new]).drop_duplicates()
 
     # Write the combined DataFrame back to the CSV file
-    df_combined.to_csv(path_or_buf='seriess_data.csv', index=False)
+    df_combined.to_csv(path_or_buf=FILENAME, index=False)
