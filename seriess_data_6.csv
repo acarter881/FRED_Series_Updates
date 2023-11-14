@@ -16191,3 +16191,123 @@ For more information, please visit the Bank of England's explication on the key 
 IUDSOIA,2023-11-14,2023-11-14,Daily Sterling Overnight Index Average (SONIA) Rate,1997-01-02,2023-11-10,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 05:01:01-06,68.0,"The Sterling Overnight Index Average (SONIA) is the interest rate applied to bank transactions in the British Sterling Market during off hours.
 
 For more information please visit the Bank of England's explication on the key features and policies of SONIA. (https://www.bankofengland.co.uk/statistics/details/further-details-about-wholesale-interbank-sterling-market-data/)"
+DTP20J26,2023-11-14,2023-11-14,"20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026",2010-01-04,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:03-06,7.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP20J25,2023-11-14,2023-11-14,"20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025",2004-07-28,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:03-06,3.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP20J28,2023-11-14,2023-11-14,"20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028",2010-01-04,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:03-06,3.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP5A24,2023-11-14,2023-11-14,"5-Year 0.500% Treasury Inflation-Indexed Note, Due 4/15/2024",2019-04-30,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:02-06,18.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP20J27,2023-11-14,2023-11-14,"20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027",2010-01-04,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:02-06,6.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP5C24,2023-11-14,2023-11-14,"5-Year 0.125% Treasury Inflation-Indexed Bond, Due 10/15/2024",2020-02-20,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:02-06,12.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP5A25,2023-11-14,2023-11-14,"5-Year 0.125% Treasury Inflation-Indexed Bond, Due 4/15/2025",2020-06-30,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:03:01-06,32.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J27,2023-11-14,2023-11-14,"10-Year 0.375 Treasury Inflation-Indexed Note, Due 1/15/2027",2017-01-20,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:11-06,1.0,"Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater. 
+
+Averages of business days. Yield to maturity on accrued principal. 
+
+Calculated from data provided by the Wall Street Journal. 
+
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10L26,2023-11-14,2023-11-14,"10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2026",2016-08-01,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:11-06,1.0,"Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+
+Averages of business days. Yield to maturity on accrued principal.
+
+Calculated from data provided by the Wall Street Journal.
+
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F43,2023-11-14,2023-11-14,"30-Year 0-5/8% Treasury Inflation-Indexed Bond, Due 2/15/2043",2013-03-11,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:11-06,1.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10L24,2023-11-14,2023-11-14,"10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2024",2014-07-25,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:10-06,2.0,"Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+
+Averages of business days. Yield to maturity on accrued principal.
+
+Calculated from data provided by the Wall Street Journal.
+
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F47,2023-11-14,2023-11-14,"30-Year 0.875% Treasury Inflation-Indexed Bond, Due 2/15/2047",2018-02-20,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:10-06,4.0,"Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+
+Averages of business days. Yield to maturity on accrued principal.
+
+Calculated from data provided by the Wall Street Journal.
+
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F42,2023-11-14,2023-11-14,"30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2042",2012-03-30,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:10-06,2.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F41,2023-11-14,2023-11-14,"30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041",2011-02-23,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:10-06,3.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J25,2023-11-14,2023-11-14,"10-Year 0-1/4% Treasury Inflation-Indexed Note, Due 1/15/2025",2015-03-11,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:10-06,1.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J29,2023-11-14,2023-11-14,"10-Year 0.875% Treasury Inflation-Indexed Note, Due 1/15/2029",2019-01-18,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:09-06,2.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F45,2023-11-14,2023-11-14,"30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2045",2015-03-05,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:09-06,4.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10L25,2023-11-14,2023-11-14,"10-Year 0.375% Treasury Inflation-Indexed Note, Due 07/15/2025",2015-07-31,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:09-06,4.0,"Yield to maturity on accrued principal. 
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater. 
+ 
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F49,2023-11-14,2023-11-14,"30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049",2019-05-07,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:09-06,2.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F46,2023-11-14,2023-11-14,"30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2046",2016-03-03,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:08-06,2.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F44,2023-11-14,2023-11-14,"30-Year 1-3/8% Treasury Inflation-Indexed Note, Due 2/15/2044",2014-04-10,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:08-06,7.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J24,2023-11-14,2023-11-14,"10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 1/15/2024",2014-01-31,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:08-06,8.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP3HA32,2023-11-14,2023-11-14,"30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032",2001-10-15,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:08-06,5.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F48,2023-11-14,2023-11-14,"30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2048",2018-02-22,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:08-06,2.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F40,2023-11-14,2023-11-14,"30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040",2010-02-23,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:07-06,10.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10L27,2023-11-14,2023-11-14,"10-Year 0.375% Treasury Inflation-Indexed Note, Due 7/15/2027",2017-07-21,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:07-06,8.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10L28,2023-11-14,2023-11-14,"10-Year 0.75% Treasury Inflation-Indexed Note, Due 7/15/2028",2018-07-20,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:06-06,17.0,
+DTP10L29,2023-11-14,2023-11-14,"10-Year 0.25% Treasury Inflation-Indexed Note, Due 7/15/2029",2019-07-30,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:06-06,11.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30A29,2023-11-14,2023-11-14,"30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029",1999-04-09,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:06-06,7.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP20J29,2023-11-14,2023-11-14,"20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029",2010-01-04,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:05-06,22.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30F50,2023-11-14,2023-11-14,"30-Year 0.250% Treasury Inflation-Indexed Bond, Due 02/15/2050",2020-02-25,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:05-06,20.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J26,2023-11-14,2023-11-14,"10-Year 0.625% Treasury Inflation-Indexed Note, Due 1/15/2026",2016-03-03,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:05-06,20.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP30A28,2023-11-14,2023-11-14,"30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028",1998-04-13,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:04-06,24.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J28,2023-11-14,2023-11-14,"10-Year 0.5% Treasury Inflation-Indexed Note, Due 1/15/2028",2018-01-19,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:03-06,53.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
+DTP10J30,2023-11-14,2023-11-14,"10-Year 0.125% Treasury Inflation-Indexed Bond, Due 01/15/2030",2020-02-20,2023-11-13,Daily,D,Percent,%,Not Seasonally Adjusted,NSA,2023-11-14 06:02:03-06,43.0,"Yield to maturity on accrued principal.
+Treasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.
+Copyright, 2016, Haver Analytics. Reprinted with permission."
