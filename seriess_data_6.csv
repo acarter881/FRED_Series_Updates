@@ -15441,3 +15441,732 @@ ECBESTRVOLWGTTRMDMNRT,2023-11-14,2023-11-14,Euro Short-Term Rate: Volume-Weighte
 The daily €STR is based on the transactions with overnight maturity that were traded and settled on the previous TARGET2 date. In SDW, the €STR series are indexed by time, where the time index reflects the trade date of the underlying transactions. For example, the observations on the rate, volume traded, etc. with time index 1 October 2019 reflect trading activity on that day, and correspond to the €STR published on 2 October 2019.
 
 For further information refer to the <a href='https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/eurostr_overview.en.html'>Overview of €STR </>."
+CLVMEURSCAB1GQLT,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:29-06,2.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQES,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:29-06,0.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQSI,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Slovenia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:29-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SI
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQLT,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:29-06,0.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQLV,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:29-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQBG,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:28-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQPL,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Poland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:28-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQDK,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Denmark,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:28-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DK
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQSI,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Slovenia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:28-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SI
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQFI,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Finland,1990-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:28-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: FI
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQDK,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Denmark,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:27-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DK
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQLV,2023-11-14,2023-11-14,Gross Domestic Product for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:27-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQLV,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:27-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQES,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:27-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQLT,2023-11-14,2023-11-14,Gross Domestic Product for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:27-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQEE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Estonia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:27-06,0.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQPL,2023-11-14,2023-11-14,Gross Domestic Product for Poland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Polish Zloty,Mil. of Polish Zloty,Not Seasonally Adjusted,NSA,2023-11-14 04:01:26-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQLV,2023-11-14,2023-11-14,Gross Domestic Product for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:26-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQHR,2023-11-14,2023-11-14,Gross Domestic Product for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:26-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQBG,2023-11-14,2023-11-14,Gross Domestic Product for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Bulgarian Lev,Mil. of Bulgarian Lev,Seasonally Adjusted,SA,2023-11-14 04:01:26-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQSK,2023-11-14,2023-11-14,Gross Domestic Product for Slovakia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:26-06,3.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SK
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQLT,2023-11-14,2023-11-14,Gross Domestic Product for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:25-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQHR,2023-11-14,2023-11-14,Gross Domestic Product for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:25-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQES,2023-11-14,2023-11-14,Gross Domestic Product for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:25-06,5.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQPL,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Poland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:25-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQCY,2023-11-14,2023-11-14,Gross Domestic Product for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:25-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQHR,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:24-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQFR,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:24-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQLV,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:24-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQLT,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:24-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQCY,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:23-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQAT,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Austria,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:23-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: AT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQDE,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:23-06,4.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQBG,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:23-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURSCAB1GQES,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:23-06,3.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQCY,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:22-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQEA12,2023-11-14,2023-11-14,Real Gross Domestic Product for Euro Area (12 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:22-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EA12
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQLV,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:22-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQFR,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:22-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQLT,2023-11-14,2023-11-14,Real Gross Domestic Product for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:21-06,2.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQCH,2023-11-14,2023-11-14,Real Gross Domestic Product for Switzerland,1980-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:21-06,4.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CH
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQSK,2023-11-14,2023-11-14,Real Gross Domestic Product for Slovakia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:21-06,4.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SK
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQSI,2023-11-14,2023-11-14,Real Gross Domestic Product for Slovenia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:21-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SI
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQSE,2023-11-14,2023-11-14,Real Gross Domestic Product for Sweden,1993-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Swedish Krona,Mil. of Chn. 2010 Swedish Krona,Not Seasonally Adjusted,NSA,2023-11-14 04:01:21-06,5.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQLV,2023-11-14,2023-11-14,Real Gross Domestic Product for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:21-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQCY,2023-11-14,2023-11-14,Real Gross Domestic Product for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:20-06,2.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQFR,2023-11-14,2023-11-14,Real Gross Domestic Product for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:20-06,2.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQHU,2023-11-14,2023-11-14,Real Gross Domestic Product for Hungary,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Hungarian Forints,Mil. of Chn. 2010 Hungarian Forints,Not Seasonally Adjusted,NSA,2023-11-14 04:01:20-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: HU
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQHR,2023-11-14,2023-11-14,Real Gross Domestic Product for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:20-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQSE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Sweden,1993-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:19-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQRO,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Romania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:19-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: RO
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQBG,2023-11-14,2023-11-14,Real Gross Domestic Product for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Bulgarian Lev,Mil. of Chn. 2010 Bulgarian Lev,Not Seasonally Adjusted,NSA,2023-11-14 04:01:19-06,1.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQFR,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:18-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQIT,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Italy,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:18-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: IT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQPL,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Poland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:18-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQHR,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:18-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQEE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Estonia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:17-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQES,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:17-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQEA12,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Euro Area (12 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:17-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EA12
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQEA,2023-11-14,2023-11-14,"Real Gross Domestic Product (Euro/ECU Series) for Euro Area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:17-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EA
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQDE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:17-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQCY,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:16-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQCH,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Switzerland,1980-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:16-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CH
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQSK,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Slovakia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:16-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SK
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQSE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Sweden,1993-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:16-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQCZ,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Czech Republic,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:16-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CZ
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQIE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Ireland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:15-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: IE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQDE,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:15-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQFR,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:15-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQHR,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:15-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQLT,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:15-06,2.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQBG,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:14-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURNSAB1GQCY,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:14-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLV10MEURB1GQSCAEA20Q,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Euro Area (20 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:14-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EA20
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQIE,2023-11-14,2023-11-14,Gross Domestic Product for Ireland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:14-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: IE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQBG,2023-11-14,2023-11-14,Gross Domestic Product for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Bulgarian Lev,Mil. of Bulgarian Lev,Not Seasonally Adjusted,NSA,2023-11-14 04:01:14-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQCY,2023-11-14,2023-11-14,Real Gross Domestic Product for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:13-06,3.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQPL,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Poland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:13-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQES,2023-11-14,2023-11-14,Real Gross Domestic Product for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:13-06,6.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQDK,2023-11-14,2023-11-14,Real Gross Domestic Product for Denmark,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Danish Krone,Mil. of Chn. 2010 Danish Krone,Not Seasonally Adjusted,NSA,2023-11-14 04:01:13-06,4.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DK
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQAT,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Austria,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:13-06,1.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: AT
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLV10MNACB1GQSCAEA20Q,2023-11-14,2023-11-14,Real Gross Domestic Product for Euro Area (20 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:12-06,3.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EA20
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQDE,2023-11-14,2023-11-14,Gross Domestic Product for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:12-06,8.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQHR,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:12-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQEE,2023-11-14,2023-11-14,Real Gross Domestic Product for Estonia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:12-06,5.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQBG,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:12-06,1.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQDE,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:11-06,6.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQSK,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Slovakia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:11-06,3.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: SK
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACNSAB1GQFR,2023-11-14,2023-11-14,Gross Domestic Product for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:11-06,5.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQDE,2023-11-14,2023-11-14,Real Gross Domestic Product for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:11-06,6.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQCY,2023-11-14,2023-11-14,Gross Domestic Product for Cyprus,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:11-06,1.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CY
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQRO,2023-11-14,2023-11-14,Real Gross Domestic Product for Romania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Romanian Leu,Mil. of Chn. 2010 Romanian Leu,Seasonally Adjusted,SA,2023-11-14 04:01:10-06,7.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: RO
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQSI,2023-11-14,2023-11-14,Real Gross Domestic Product for Slovenia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:10-06,6.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SI
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMEURNSAB1GQIE,2023-11-14,2023-11-14,Gross Domestic Product (Euro/ECU Series) for Ireland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:10-06,2.0,"Eurostat unit ID: CP_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: IE
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQEE,2023-11-14,2023-11-14,Real Gross Domestic Product for Estonia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:10-06,2.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQPL,2023-11-14,2023-11-14,Real Gross Domestic Product for Poland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Polish Zloty,Mil. of Chn. 2010 Polish Zloty,Seasonally Adjusted,SA,2023-11-14 04:01:09-06,12.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQLV,2023-11-14,2023-11-14,Real Gross Domestic Product for Latvia,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:09-06,10.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LV
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQHR,2023-11-14,2023-11-14,Real Gross Domestic Product for Croatia,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:09-06,14.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: HR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQBG,2023-11-14,2023-11-14,Real Gross Domestic Product for Bulgaria,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Bulgarian Lev,Mil. of Chn. 2010 Bulgarian Lev,Seasonally Adjusted,SA,2023-11-14 04:01:08-06,14.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: BG
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQPL,2023-11-14,2023-11-14,Gross Domestic Product for Poland,1995-01-01,2023-04-01,Quarterly,Q,Millions of Polish Zloty,Mil. of Polish Zloty,Seasonally Adjusted,SA,2023-11-14 04:01:08-06,13.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQLT,2023-11-14,2023-11-14,Real Gross Domestic Product for Lithuania,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:08-06,9.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: LT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQEU272020,2023-11-14,2023-11-14,Real Gross Domestic Product for European Union (27 Countries from 2020),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:08-06,9.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EU27_2020
+
+European Union (27 countries from 2020) represents the 2020 reduction in the European Union countries due to the departure of the United Kindom. European Union (27 countries): Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, the Netherlands, Portugal, Austria, Finland, Sweden, Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovenia, Slovakia, Bulgaria, Romania, and Croatia.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQEA,2023-11-14,2023-11-14,"Real Gross Domestic Product for Euro Area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:08-06,11.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EA
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQPL,2023-11-14,2023-11-14,Real Gross Domestic Product for Poland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Polish Zloty,Mil. of Chn. 2010 Polish Zloty,Not Seasonally Adjusted,NSA,2023-11-14 04:01:07-06,25.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: PL
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACNSAB1GQIE,2023-11-14,2023-11-14,Real Gross Domestic Product for Ireland,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Not Seasonally Adjusted,NSA,2023-11-14 04:01:07-06,21.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: IE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQES,2023-11-14,2023-11-14,Gross Domestic Product for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:07-06,25.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQAT,2023-11-14,2023-11-14,Gross Domestic Product for Austria,1995-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:07-06,15.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: AT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQCZ,2023-11-14,2023-11-14,Real Gross Domestic Product for Czech Republic,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:07-06,20.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: CZ
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQEU272020,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for European Union (27 Countries from 2020),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:06-06,20.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EU27_2020
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+European Union (27 countries from 2020) represents the 2020 reduction in the European Union countries due to the departure of the United Kindom. European Union (27 countries): Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, the Netherlands, Portugal, Austria, Finland, Sweden, Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovenia, Slovakia, Bulgaria, Romania, and Croatia.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQEA19,2023-11-14,2023-11-14,Real Gross Domestic Product for Euro Area (19 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:06-06,31.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: EA19
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQAT,2023-11-14,2023-11-14,Real Gross Domestic Product for Austria,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:05-06,27.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: AT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQFI,2023-11-14,2023-11-14,Real Gross Domestic Product for Finland,1990-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:05-06,36.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: FI
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQDK,2023-11-14,2023-11-14,Real Gross Domestic Product for Denmark,1995-01-01,2023-04-01,Quarterly,Q,Millions of Chained 2010 Danish Krone,Mil. of Chn. 2010 Danish Krone,Seasonally Adjusted,SA,2023-11-14 04:01:05-06,33.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DK
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQFR,2023-11-14,2023-11-14,Gross Domestic Product for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:05-06,30.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQSE,2023-11-14,2023-11-14,Real Gross Domestic Product for Sweden,1993-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Swedish Krona,Mil. of Chn. 2010 Swedish Krona,Seasonally Adjusted,SA,2023-11-14 04:01:04-06,38.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: SE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQES,2023-11-14,2023-11-14,Real Gross Domestic Product for Spain,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:04-06,49.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: ES
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CPMNACSCAB1GQDE,2023-11-14,2023-11-14,Gross Domestic Product for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Euros,Mil. of Euros,Seasonally Adjusted,SA,2023-11-14 04:01:04-06,40.0,"Eurostat unit ID: CP_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQIT,2023-11-14,2023-11-14,Real Gross Domestic Product for Italy,1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:03-06,57.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: IT
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMEURSCAB1GQEA19,2023-11-14,2023-11-14,Real Gross Domestic Product (Euro/ECU Series) for Euro Area (19 Countries),1995-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:03-06,53.0,"Eurostat unit ID: CLV10_MEUR
+Eurostat item ID: B1GQ
+Eurostat country ID: EA19
+
+Euro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQFR,2023-11-14,2023-11-14,Real Gross Domestic Product for France,1975-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:03-06,54.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: FR
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
+CLVMNACSCAB1GQDE,2023-11-14,2023-11-14,Real Gross Domestic Product for Germany,1991-01-01,2023-07-01,Quarterly,Q,Millions of Chained 2010 Euros,Mil. of Chn. 2010 Euros,Seasonally Adjusted,SA,2023-11-14 04:01:02-06,62.0,"Eurostat unit ID: CLV10_MNAC
+Eurostat item ID: B1GQ
+Eurostat country ID: DE
+
+Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at https://ec.europa.eu/geninfo/legal_notices_en.htm (https://ec.europa.eu/geninfo/legal_notices_en.htm)."
